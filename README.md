@@ -1,4 +1,4 @@
-# CRM---MEAN-stack
+# Customer Relationship Management (CRM) system
 A CRM system created based on the MEAN stack
 
 The build is hosted on heroku : https://peaceful-meadow-69053.herokuapp.com
